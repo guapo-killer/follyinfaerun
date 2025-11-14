@@ -12,11 +12,11 @@ I'll look to flesh this out pronto!
 
 **Class:** *Bard-Barian*
 
-# BATCH NO.6 
+# BATCH NO.4 
 
 **Species:** *Construct*
 
-**Class:** *Paladin*
+**Class:** *Druid-Paladin*
 
 # Quinn
 
