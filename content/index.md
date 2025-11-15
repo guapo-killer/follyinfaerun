@@ -1,11 +1,26 @@
 ---
-title: Howdy Friends!! 
+title: Welcome to our DnD Wiki!
 ---
 
-If you're reading this, then it means I've finally managed to get our very own Folly in Faerun Wiki up and running! 
+Please have a look around at what's already up and running on here. So far we have overviews on:
 
-I'll be looking to add lots of stuff in here to make it easier for you guys to check in on specific NPCs, locations you've been too & all manner of other things to come :D 
+**Overview of the players**
 
-Plus I got a bit obsessed with the idea so here we are lmao! 
+[[The Angels of Death!]]
 
-Go checkout the only other page I've written so far lmao ! 
+**Towns & Cities you've been to**
+*in order of arrival*
+
+[[Daggerford Overview]]                                 
+[[Karse Overview]]                      
+[[Arabel Overview]]
+
+**People you have met along the way**
+
+[[Daggerford NPCs]]
+
+**Lore & Information you've learnt**
+
+[[Karsus' Folly]]                           
+[[Karsus Folly Poem]]                           
+[[The Insurance Scam]]
