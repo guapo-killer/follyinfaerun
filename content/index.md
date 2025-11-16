@@ -1,6 +1,8 @@
 ---
 title: Welcome to our DnD Wiki!
 ---
+![[dnd_banner_top_1024x1024.jpg]]
+
 
 Please have a look around at what's already up and running on here. So far we have overviews on:
 
@@ -8,8 +10,8 @@ Please have a look around at what's already up and running on here. So far we ha
 
 [[The Angels of Death!]]
 
-**Towns & Cities you've been to**
-*in order of arrival*
+**Towns & Cities you've been to**                       
+*(in order of arrival)*
 
 [[Daggerford Overview]]                                 
 [[Karse Overview]]                      
