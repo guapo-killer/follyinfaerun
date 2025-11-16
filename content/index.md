@@ -8,18 +8,20 @@ Please have a look around at what's already up and running on here. So far we ha
 
 **Overview of the players**
 
-[[The Angels of Death!]]
+[[The Angels of Death!|The Party]]
 
 **Towns & Cities you've been to**                       
 *(in order of arrival)*
 
-[[Daggerford Overview]]                                 
-[[Karse Overview]]                      
-[[Arabel Overview]]
+A map of [[Faerun Map|Faerun]]
+
+[[Daggerford Overview|Daggerford]]                                 
+[[Karse Overview|Karse]]                      
+[[Arabel Overview|Arabel]]
 
 **People you have met along the way**
 
-[[Daggerford NPCs]]
+[[Non-Player Characters]]
 
 **Lore & Information you've learnt**
 
