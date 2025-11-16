@@ -2,7 +2,7 @@
 
 Daggerford is a known location to you all, in particular you are aware of it’s importance to a number of trade routes, both land travel and shipments go through Daggerford - and therefore the town has become reliant on a steady stream of adventurers and mercenaries flowing into the town to offer protection for merchants and guilds. As such, the authorities of Daggerford have implemented a bidding system to ensure healthy competition , and avoid infighting within the town.
 
-I suspect some of the party will already be aware (however I  will leave it up to you to decide whether your character does, or would even care) that Daggerford is ran much in the same way as Waterdeep is - there are a number of Guildmasters, that collectively form a caucus that determines matters of the Town (it’s a town, not a city - despite how much they try and call it one). Unlike Waterdeep however, their identities are public.
+Daggerford is ran much in the same way as Waterdeep is - there are a number of Guildmasters, that collectively form a caucus that determines matters of the Town (it’s a town, not a city - despite how much they try and call it one). Unlike Waterdeep however, their identities are public.
 
 # Daggerford Map
 
