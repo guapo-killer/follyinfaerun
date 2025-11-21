@@ -1,0 +1,5 @@
+
+## Skyship Scematics 
+
+![[Skyshipmapgalerider.jpg]]
+
